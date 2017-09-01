@@ -35,6 +35,9 @@
   <p>My first expression: {{ 5 + 5 }}</p>
 </div>
 
+<div ng-app="">
+  <p>My first expression: {{ 5 + 5 }}</p>
+</div>
 
 
 
